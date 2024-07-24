@@ -1,0 +1,42 @@
+.main{
+    margin-top: 70px;
+    background-color: rgba(255, 255, 255, 0.13);
+    height: auto;
+
+    border-radius: 10px;
+    width: 800px;
+    box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+}
+.line{
+    height: 1px;
+    width: auto;
+    background-color: rgb(196, 186, 186);
+    align-items: center;
+
+}
+.buttons-div{
+    display: flex;
+    justify-content: right;
+}
+.question{
+    padding-top:30px;
+    text-align: center;
+
+}
+.btn{
+    border-radius: 30px;
+    width: 150px;
+}
+body {
+
+    background: linear-gradient(to right, #9bb6f1, #9dff9a);
+
+
+
+    height: 100vh;
+    margin: 0;
+}
+.a{
+    height: 3px;
+    background-color: aqua;
+}
